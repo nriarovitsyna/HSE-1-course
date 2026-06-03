@@ -1,0 +1,138 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/nata_yarovitsyna/RiderProjects/TicketCashier/TicketCashier/TicketCashier.csproj": {}
+  },
+  "projects": {
+    "/Users/nata_yarovitsyna/RiderProjects/TicketCashier/ClassLibrary/ClassLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/nata_yarovitsyna/RiderProjects/TicketCashier/ClassLibrary/ClassLibrary.csproj",
+        "projectName": "ClassLibrary",
+        "projectPath": "/Users/nata_yarovitsyna/RiderProjects/TicketCashier/ClassLibrary/ClassLibrary.csproj",
+        "packagesPath": "/Users/nata_yarovitsyna/.nuget/packages/",
+        "outputPath": "/Users/nata_yarovitsyna/RiderProjects/TicketCashier/ClassLibrary/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/nata_yarovitsyna/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "QRCoder": {
+              "target": "Package",
+              "version": "[1.6.0, )"
+            },
+            "Spectre.Console": {
+              "target": "Package",
+              "version": "[0.49.2-preview.0.76, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/nata_yarovitsyna/RiderProjects/TicketCashier/TicketCashier/TicketCashier.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/nata_yarovitsyna/RiderProjects/TicketCashier/TicketCashier/TicketCashier.csproj",
+        "projectName": "TicketCashier",
+        "projectPath": "/Users/nata_yarovitsyna/RiderProjects/TicketCashier/TicketCashier/TicketCashier.csproj",
+        "packagesPath": "/Users/nata_yarovitsyna/.nuget/packages/",
+        "outputPath": "/Users/nata_yarovitsyna/RiderProjects/TicketCashier/TicketCashier/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/nata_yarovitsyna/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/nata_yarovitsyna/RiderProjects/TicketCashier/ClassLibrary/ClassLibrary.csproj": {
+                "projectPath": "/Users/nata_yarovitsyna/RiderProjects/TicketCashier/ClassLibrary/ClassLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
