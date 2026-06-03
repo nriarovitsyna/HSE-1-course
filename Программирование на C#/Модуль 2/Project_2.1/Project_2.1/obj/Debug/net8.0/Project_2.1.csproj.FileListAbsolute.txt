@@ -1,0 +1,14 @@
+/Users/nata_yarovitsyna/RiderProjects/Project_2.1/Project_2.1/obj/Debug/net8.0/Project_2.1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nata_yarovitsyna/RiderProjects/Project_2.1/Project_2.1/obj/Debug/net8.0/Project_2.1.AssemblyInfoInputs.cache
+/Users/nata_yarovitsyna/RiderProjects/Project_2.1/Project_2.1/obj/Debug/net8.0/Project_2.1.AssemblyInfo.cs
+/Users/nata_yarovitsyna/RiderProjects/Project_2.1/Project_2.1/obj/Debug/net8.0/Project_2.1.csproj.CoreCompileInputs.cache
+/Users/nata_yarovitsyna/RiderProjects/Project_2.1/Project_2.1/bin/Debug/net8.0/Project_2.1
+/Users/nata_yarovitsyna/RiderProjects/Project_2.1/Project_2.1/bin/Debug/net8.0/Project_2.1.deps.json
+/Users/nata_yarovitsyna/RiderProjects/Project_2.1/Project_2.1/bin/Debug/net8.0/Project_2.1.runtimeconfig.json
+/Users/nata_yarovitsyna/RiderProjects/Project_2.1/Project_2.1/bin/Debug/net8.0/Project_2.1.dll
+/Users/nata_yarovitsyna/RiderProjects/Project_2.1/Project_2.1/bin/Debug/net8.0/Project_2.1.pdb
+/Users/nata_yarovitsyna/RiderProjects/Project_2.1/Project_2.1/obj/Debug/net8.0/Project_2.1.dll
+/Users/nata_yarovitsyna/RiderProjects/Project_2.1/Project_2.1/obj/Debug/net8.0/refint/Project_2.1.dll
+/Users/nata_yarovitsyna/RiderProjects/Project_2.1/Project_2.1/obj/Debug/net8.0/Project_2.1.pdb
+/Users/nata_yarovitsyna/RiderProjects/Project_2.1/Project_2.1/obj/Debug/net8.0/Project_2.1.genruntimeconfig.cache
+/Users/nata_yarovitsyna/RiderProjects/Project_2.1/Project_2.1/obj/Debug/net8.0/ref/Project_2.1.dll
